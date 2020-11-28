@@ -1,0 +1,29 @@
+{
+  "name": "typescript-pro1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aroran1/typescript-pro1.git"
+  },
+  "author": "Nidhi Arora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aroran1/typescript-pro1/issues"
+  },
+  "homepage": "https://github.com/aroran1/typescript-pro1#readme",
+  "dependencies": {
+    "@types/faker": "^5.1.4",
+    "@types/googlemaps": "^3.40.3",
+    "express": "^4.17.1",
+    "faker": "^5.1.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^4.1.2"
+  }
+}
