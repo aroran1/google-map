@@ -13,4 +13,6 @@ console.log(company);
 //   zoom: 3
 // });
 
-new CustomMap('map');
+const map = new CustomMap('map');
+map.addUserMarker(user);
+map.addCompanyMarker(company);
